@@ -1,3 +1,5 @@
+# This repository is copy of https://github.com/mashuble/Pinterest-Socialite
+
 # Pinterest OAuth2 Provider for Laravel Socialite
 
 ## INSTALLATION
